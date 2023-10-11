@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tournament2/static/css/main.bdda907d.css",
+    "main.js": "/tournament2/static/js/main.d2ceb9cb.js",
+    "static/media/datebg.jpg": "/tournament2/static/media/datebg.f2379983d7af279ed4e9.jpg",
+    "index.html": "/tournament2/index.html",
+    "main.bdda907d.css.map": "/tournament2/static/css/main.bdda907d.css.map",
+    "main.d2ceb9cb.js.map": "/tournament2/static/js/main.d2ceb9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdda907d.css",
+    "static/js/main.d2ceb9cb.js"
+  ]
+}
